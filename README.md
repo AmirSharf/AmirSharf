@@ -33,3 +33,25 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirsharf&" alt="amirsharf" /></p>
 
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
+
+
+
+<td valign="top" width="50%">
+
+#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
+
+<!-- code_time starts -->
+
+```text
+JavaScript    1 hr 58 mins  ██████████████▓░░░░░░░░░  46.3%
+Markdown           37 mins  ███████░░░░░░░░░░░░░░░░░  14.8%
+JSON               28 mins  ██████░░░░░░░░░░░░░░░░░░  11.1%
+Smarty             21 mins  █████▒░░░░░░░░░░░░░░░░░░   8.4%
+TypeScript         17 mins  █████░░░░░░░░░░░░░░░░░░░   6.9%
+PHP                11 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.5%
+```
+
+<!-- code_time ends -->
+
+</td>
+<td valign="top" width="50%">
