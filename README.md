@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirsharf&" alt="amirsharf" /></p>
 
-https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true
+![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
