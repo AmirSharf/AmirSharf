@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at github https://github.com/AmirSharf
 
--☯ My websites are available at https://amirsharf.github.io  (Coming Soon)
+-  ☯ My websites are available at https://amirsharf.github.io  (Coming Soon)
 
 - 📫 How to reach me **amirazmi078@gmail.com / amir_04mtech20@nitsri.net**
 
