@@ -43,11 +43,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirsharf&show_icons=true&locale=en&layout=compact&show_icons=true&theme=gotham" alt="amirsharf" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirsharf&show_icons=true&locale=en&layout=compact&show_icons=true&theme=gotham" alt="amirsharf" width="500" height="320"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirsharf&show_icons=true&locale=en&show_icons=true&theme=gotham" alt="amirsharf" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amirsharf&show_icons=true&locale=en&show_icons=true&theme=gotham" alt="amirsharf"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirsharf&show_icons=true&theme=gotham" alt="amirsharf" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amirsharf&show_icons=true&theme=gotham" alt="amirsharf" /></p>
 
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
