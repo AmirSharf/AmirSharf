@@ -12,7 +12,9 @@
 
 - 🤝 I’m looking for help with **VHDL/Verilog code that have Debug**
 
-- 👨‍💻 All of my projects are available at github https://github.com/AmirSharf(Coming Soon)
+- 👨‍💻 All of my projects are available at github https://github.com/AmirSharf
+
+-☯ My websites are available at https://amirsharf.github.io  (Coming Soon)
 
 - 📫 How to reach me **amirazmi078@gmail.com / amir_04mtech20@nitsri.net**
 
