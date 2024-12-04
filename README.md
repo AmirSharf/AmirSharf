@@ -4,19 +4,19 @@
     <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
   </a>
 </p>
-<h3 align="center">A passionate FPGA developer from India</h3>
+<h3 align="center">A passionate Functional/Formal Verification from India</h3>
 
-- 🔭 I’m currently working on **EDTFET**
+- 🔭 I’m currently working on **Functional Verification**
 
-- 🌱 I’m currently learning **RISC-V and Arm-Processor**
+- 🌱 I’m currently learning **Formal Verification**
 
-- 🤝 I’m looking for help with **VHDL/Verilog code that have Debug**
+- 🤝 I’m looking for help with **Verilog/Systemverilog/UVM/C-SOC**
 
 - 👨‍💻 All of my projects are available at github https://github.com/AmirSharf
 
 -  ☯ My websites are available at https://amirsharf.github.io  (Coming Soon)
 
-- 📫 How to reach me **amirazmi078@gmail.com / amir_04mtech20@nitsri.net**
+- 📫 How to reach me **amirazmi078@gmail.com / imamirsharfu@gmail.com**
 
 - ⚡ Fun fact **1. I think I'm Courageous, Deterministic.**
 
